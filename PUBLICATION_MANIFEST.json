@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-07",
+  "title": "Groq standalone paper trading study",
+  "completion_gate_passed": true,
+  "files": [
+    {
+      "path": ".env.example",
+      "sha256": "24b9aa60b15d28d15e5eab9af76dbdffa59f1bf17a3569e5b4954df40347f024",
+      "bytes": 28
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "2dc54d323b473504b3a35f0289816db9d23aae3e7ecfbccb2845e3fc09f9b358",
+      "bytes": 108
+    },
+    {
+      "path": "cli.py",
+      "sha256": "1a8e75b4529f47f07bf78f89a2904f9b280f832aff6f4192270350d6f693717d",
+      "bytes": 1895
+    },
+    {
+      "path": "demo_summary.json",
+      "sha256": "c239ecdb7aff3d854ba044d37bc43b266ff2407de399f7ca4618a9aae52b5752",
+      "bytes": 447
+    },
+    {
+      "path": "imad_trading_bot_GROQ.py",
+      "sha256": "51e612116b6852d75583abaa50933e4b3c6d1bf6a7924c20f0afbe473ed976c4",
+      "bytes": 64
+    },
+    {
+      "path": "paper.py",
+      "sha256": "02802ad98c445f5198ffdae33a802813ecd17ebaf442c1dde3b89d9ac380d0f9",
+      "bytes": 10162
+    },
+    {
+      "path": "providers.py",
+      "sha256": "1c61582cac9d2a09e02557bb782cf82859d33e506484f4111e56426867ac4c27",
+      "bytes": 4168
+    },
+    {
+      "path": "README.md",
+      "sha256": "7351c5dbeea9b6c95a5fb28a5b29f668808afd015b091c3f25ea817bad94064d",
+      "bytes": 2884
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "40634886b612901c2612fac8918d023146e2a193eadfe156e8a6c31d2147cabf",
+      "bytes": 77
+    },
+    {
+      "path": "test_paper.py",
+      "sha256": "bf64d88bdeb51f4107d3e9e6210c34b016a787c4dcd06b1ac4193279d89fbd1e",
+      "bytes": 8081
+    },
+    {
+      "path": "VERIFICATION.json",
+      "sha256": "ea8cd018cc44867d8d8918410aec0f10864df06ca52d580bf2ac2699681c5cff",
+      "bytes": 721
+    }
+  ]
+}
